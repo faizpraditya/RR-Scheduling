@@ -1,0 +1,16 @@
+*{
+	padding: 0;margin: 0;
+}
+html, body{
+	height: 100%;
+}
+.header{
+	height: 10%;
+}
+
+.main{
+	height: 85%;
+}
+	.main-content{
+		padding: 20px;
+	}
